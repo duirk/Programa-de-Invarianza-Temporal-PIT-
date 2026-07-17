@@ -1,1 +1,157 @@
 1º Mecánica del Anclaje Energético: Termodinámica de la Coherencia Informacional
+Programa de Invarianza Temporal (PIT)
+Notas de Formalización, Supuestos y Límites del Modelo
+1. Naturaleza del modelo
+
+El Programa de Invarianza Temporal (PIT) es un modelo teórico
+matemático destinado a describir la consciencia como un proceso
+dinámico de mantenimiento de coherencia lejos del equilibrio.
+
+El modelo no pretende constituir una teoría física demostrada,
+sino un marco formal para explorar relaciones entre:
+
+- dinámica temporal,
+- estabilidad informacional,
+- gasto energético,
+- regulación entrópica.
+
+
+2. Definición de variables fundamentales
+
+2.1 Estado de consciencia
+
+La variable φB(t) representa una fase abstracta de coherencia
+del sistema consciente.
+
+φB(t) no corresponde actualmente a una medición neurofisiológica
+directa, sino a una variable de estado teórica destinada a
+representar la estabilidad dinámica del proceso consciente.
+
+
+2.2 Estado de referencia Ω
+
+Ω representa el estado atractor o referencia de coherencia hacia
+el cual el sistema tiende mediante mecanismos de regulación.
+
+En versiones futuras del modelo, Ω deberá definirse mediante
+variables observables relacionadas con:
+
+- actividad neuronal integrada,
+- sincronización funcional,
+- estabilidad metabólica,
+- interacción organismo-entorno.
+
+
+2.3 Ruido η(t)
+
+η(t) representa perturbaciones estocásticas derivadas de:
+
+- variabilidad neuronal,
+- fluctuaciones metabólicas,
+- ruido fisiológico.
+
+
+3. Interpretación dinámica
+
+La ecuación:
+
+dφB/dt = -λ(Ω - φB) + η(t)
+
+describe un sistema dinámico con:
+
+- un término restaurador hacia un estado de referencia,
+- una tasa de recuperación λ,
+- perturbaciones aleatorias.
+
+Matemáticamente corresponde a una dinámica de relajación
+estocástica.
+
+
+4. Consideraciones termodinámicas
+
+El PIT considera la consciencia como un sistema abierto que
+mantiene organización interna mediante consumo energético.
+
+La entropía S(t) representa una magnitud abstracta asociada a:
+
+- degradación de coherencia,
+- acumulación de ruido,
+- pérdida de estabilidad dinámica.
+
+
+La relación energética propuesta requiere futuras revisiones
+dimensionales para establecer unidades físicas compatibles.
+
+
+5. Hipótesis sobre el ciclo sueño-vigilia
+
+El modelo propone que:
+
+Vigilia:
+dS/dt > 0
+
+Representa acumulación progresiva de perturbaciones.
+
+
+Sueño:
+dS/dt < 0
+
+Representa procesos de regulación, recalibración y recuperación.
+
+
+Esta hipótesis es compatible conceptualmente con mecanismos
+biológicos conocidos, pero requiere validación experimental.
+
+
+6. Relación con MSSC
+
+El PIT amplía el Modelo de Saturación Sigmoide de la Consciencia
+(MSSC).
+
+MSSC:
+Describe la relación entre integración informacional y saturación.
+
+PIT:
+Describe la estabilidad temporal necesaria para mantener dicha
+integración.
+
+
+7. Predicciones futuras
+
+El modelo propone que podrían existir correlaciones entre:
+
+- estabilidad consciente,
+- consumo energético cerebral,
+- sincronización neuronal,
+- estados de sueño,
+- recuperación cognitiva.
+
+
+La validación requiere:
+
+- EEG de alta resolución,
+- neuroimagen funcional,
+- modelos computacionales comparativos,
+- métricas objetivas de integración.
+
+
+8. Limitaciones actuales
+
+El PIT presenta actualmente:
+
+- variables parcialmente abstractas,
+- ausencia de medición directa de φB y Ω,
+- parámetros todavía no calibrados experimentalmente,
+- necesidad de validación neurofisiológica.
+
+
+9. Estado del proyecto
+
+Versión: PIT 1.0
+
+Clasificación:
+Modelo matemático hipotético / marco teórico.
+
+Objetivo:V2
+Formalizar una posible dinámica de estabilidad temporal
+de sistemas conscientes y generar hipótesis verificables.
